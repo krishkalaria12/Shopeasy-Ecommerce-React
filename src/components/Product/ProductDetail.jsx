@@ -22,9 +22,6 @@ const ProductDetails = () => {
     return item.id === parseInt(id);
   });
 
-  
-
-  console.log({product});
   const addtoCart = () => {
     dispatch(addItem({product}));
     toast.success("Added to cart")
