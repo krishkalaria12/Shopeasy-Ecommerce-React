@@ -10,7 +10,7 @@
     E-commerce website for the Gen-Z
     <br/>
     <br/>
-    <a href="https://shopeasy.netlify.app/"><strong>View Live Demo »</strong></a>
+    <a href="https://shopeasyy.netlify.app/"><strong>View Live Demo »</strong></a>
     <br/>
   <p align="center"><b>🚀Latest update:</b> Added admin panel </p>
     <br/>
